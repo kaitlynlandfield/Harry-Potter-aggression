@@ -30,3 +30,4 @@ hp_graph<- hp_data%>%
 hp_graph
 ```
 
+On Wednesdays we wear pink
